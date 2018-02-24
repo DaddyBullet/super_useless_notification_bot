@@ -1,0 +1,879 @@
+{
+    "statusCode": 200,
+    "timeStamp": 1519166337,
+    "message": "Ok",
+    "debugInfo": null,
+    "meta": null,
+    "data": {
+        "group": {
+            "group_id": 621,
+            "group_full_name": "ік-51",
+            "group_prefix": "ік",
+            "group_okr": "bachelor",
+            "group_type": "daily",
+            "group_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?g=7b7a9bb1-df08-44f2-bcb2-a62775da5fc3"
+        },
+        "weeks": {
+            "1": {
+                "week_number": 1,
+                "days": {
+                    "1": {
+                        "day_name": "Понеділок",
+                        "day_number": 1,
+                        "lessons": [
+                            {
+                                "lesson_id": "7094",
+                                "group_id": "621",
+                                "day_number": "1",
+                                "day_name": "Понеділок",
+                                "lesson_name": "Право",
+                                "lesson_full_name": "Правове забезпечення професійної діяльності",
+                                "lesson_number": "2",
+                                "lesson_room": "304-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "ст.вик. Звягіна І. Н.",
+                                "lesson_week": "1",
+                                "time_start": "10:25:00",
+                                "time_end": "12:00:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "1155",
+                                        "teacher_name": "Звягіна Ірина Никифорівна",
+                                        "teacher_full_name": "старший викладач Звягіна Ірина Никифорівна",
+                                        "teacher_short_name": "ст.вик. Звягіна І. Н.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=aea2ef9a-cfea-48d5-87fa-0513d4088ed9",
+                                        "teacher_rating": "2.733"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "338",
+                                        "room_name": "304-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7098",
+                                "group_id": "621",
+                                "day_number": "1",
+                                "day_name": "Понеділок",
+                                "lesson_name": "КЕ 3 Мікропроцес. системи",
+                                "lesson_full_name": "Комп'ютерна електроніка - 3. Мікропроцесорні системи",
+                                "lesson_number": "3",
+                                "lesson_room": "419-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Ігнатенко В. М.",
+                                "lesson_week": "1",
+                                "time_start": "12:20:00",
+                                "time_end": "13:55:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "1232",
+                                        "teacher_name": "Ігнатенко Валерій Миколайович",
+                                        "teacher_full_name": "доцент Ігнатенко Валерій Миколайович",
+                                        "teacher_short_name": "доц. Ігнатенко В. М.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=f6191dd1-2522-486b-b93c-4e2057824622",
+                                        "teacher_rating": "2.877"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "365",
+                                        "room_name": "419-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7102",
+                                "group_id": "621",
+                                "day_number": "1",
+                                "day_name": "Понеділок",
+                                "lesson_name": "КЕ 3 Мікропроцес. системи",
+                                "lesson_full_name": "Комп'ютерна електроніка - 3. Мікропроцесорні системи",
+                                "lesson_number": "4",
+                                "lesson_room": "419а-18",
+                                "lesson_type": "Лаб",
+                                "teacher_name": "доц. Ігнатенко В. М.",
+                                "lesson_week": "1",
+                                "time_start": "14:15:00",
+                                "time_end": "15:50:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "1232",
+                                        "teacher_name": "Ігнатенко Валерій Миколайович",
+                                        "teacher_full_name": "доцент Ігнатенко Валерій Миколайович",
+                                        "teacher_short_name": "доц. Ігнатенко В. М.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=f6191dd1-2522-486b-b93c-4e2057824622",
+                                        "teacher_rating": "2.877"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "373",
+                                        "room_name": "419а-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "2": {
+                        "day_name": "Вівторок",
+                        "day_number": 2,
+                        "lessons": []
+                    },
+                    "3": {
+                        "day_name": "Середа",
+                        "day_number": 3,
+                        "lessons": [
+                            {
+                                "lesson_id": "7091",
+                                "group_id": "621",
+                                "day_number": "3",
+                                "day_name": "Середа",
+                                "lesson_name": "ТАУ 2",
+                                "lesson_full_name": "Теорія автоматичного управління - 2. Теорія цифрових систем управління",
+                                "lesson_number": "1",
+                                "lesson_room": "413-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Пархомей І. Р.",
+                                "lesson_week": "1",
+                                "time_start": "08:30:00",
+                                "time_end": "10:05:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "2461",
+                                        "teacher_name": "Пархомей Ігор Ростиславович",
+                                        "teacher_full_name": "доцент Пархомей Ігор Ростиславович",
+                                        "teacher_short_name": "доц. Пархомей І. Р.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=9c5de088-4987-4110-b85e-6c20c6451c47",
+                                        "teacher_rating": "3.990"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "371",
+                                        "room_name": "413-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7095",
+                                "group_id": "621",
+                                "day_number": "3",
+                                "day_name": "Середа",
+                                "lesson_name": "ЕОПВ - 2.Екон. і орг",
+                                "lesson_full_name": "Економіка організації і планування виробництва - 2. Економіка та організація виробництва",
+                                "lesson_number": "2",
+                                "lesson_room": "303-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "проф. Семенченко Н. В.",
+                                "lesson_week": "1",
+                                "time_start": "10:25:00",
+                                "time_end": "12:00:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "3934",
+                                        "teacher_name": "Семенченко Наталія Віталіївна",
+                                        "teacher_full_name": "Семенченко Наталія Віталіївна",
+                                        "teacher_short_name": "проф. Семенченко Н. В.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=bef17f66-714a-4c5e-a11d-717570cafbb8",
+                                        "teacher_rating": "3.871"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "353",
+                                        "room_name": "303-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7099",
+                                "group_id": "621",
+                                "day_number": "3",
+                                "day_name": "Середа",
+                                "lesson_name": "Історія укр. культури",
+                                "lesson_full_name": "Історія української культури в контексті світової (мультимедійне забезпечення)",
+                                "lesson_number": "3",
+                                "lesson_room": "209а-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Покулита І. К.",
+                                "lesson_week": "1",
+                                "time_start": "12:20:00",
+                                "time_end": "13:55:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "2605",
+                                        "teacher_name": "Покулита Ірина Костянтинівна",
+                                        "teacher_full_name": "доцент Покулита Ірина Костянтинівна",
+                                        "teacher_short_name": "доц. Покулита І. К.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=4a72aaeb-81bb-4603-8083-0ebe739ff90f",
+                                        "teacher_rating": "2.608"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "335",
+                                        "room_name": "209а-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "4": {
+                        "day_name": "Четвер",
+                        "day_number": 4,
+                        "lessons": [
+                            {
+                                "lesson_id": "7092",
+                                "group_id": "621",
+                                "day_number": "4",
+                                "day_name": "Четвер",
+                                "lesson_name": "ІМПС - 1. Ін. мова п",
+                                "lesson_full_name": "Іноземна мова професійного спрямування - 1. Іноземна мова професійного спрямування",
+                                "lesson_number": "1",
+                                "lesson_room": "411-18",
+                                "lesson_type": "Прак",
+                                "teacher_name": "вик. Крижак О. Ю.",
+                                "lesson_week": "1",
+                                "time_start": "08:30:00",
+                                "time_end": "10:05:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "3989",
+                                        "teacher_name": "Крижак О Ю",
+                                        "teacher_full_name": "Крижак О Ю",
+                                        "teacher_short_name": "вик. Крижак О. Ю.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=0b96e1cb-f061-4bb2-bb81-85dadf1d9942",
+                                        "teacher_rating": "3.357"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "368",
+                                        "room_name": "411-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7096",
+                                "group_id": "621",
+                                "day_number": "4",
+                                "day_name": "Четвер",
+                                "lesson_name": "Комп. мод. систем",
+                                "lesson_full_name": "Комп'ютерне моделювання систем",
+                                "lesson_number": "2",
+                                "lesson_room": "418-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Чумаченко О. І.",
+                                "lesson_week": "1",
+                                "time_start": "10:25:00",
+                                "time_end": "12:00:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "3515",
+                                        "teacher_name": "Чумаченко Олена Іллівна",
+                                        "teacher_full_name": "доцент Чумаченко Олена Іллівна",
+                                        "teacher_short_name": "доц. Чумаченко О. І.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=cc384c10-68dc-427c-a8f5-b2ae1c0e68e1",
+                                        "teacher_rating": "1.764"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "366",
+                                        "room_name": "418-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7100",
+                                "group_id": "621",
+                                "day_number": "4",
+                                "day_name": "Четвер",
+                                "lesson_name": "Комп. мод. систем",
+                                "lesson_full_name": "Комп'ютерне моделювання систем",
+                                "lesson_number": "3",
+                                "lesson_room": "402-18",
+                                "lesson_type": "Лаб",
+                                "teacher_name": "доц. Чумаченко О. І.",
+                                "lesson_week": "1",
+                                "time_start": "12:20:00",
+                                "time_end": "13:55:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "3515",
+                                        "teacher_name": "Чумаченко Олена Іллівна",
+                                        "teacher_full_name": "доцент Чумаченко Олена Іллівна",
+                                        "teacher_short_name": "доц. Чумаченко О. І.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=cc384c10-68dc-427c-a8f5-b2ae1c0e68e1",
+                                        "teacher_rating": "1.764"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "370",
+                                        "room_name": "402-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "5": {
+                        "day_name": "П’ятниця",
+                        "day_number": 5,
+                        "lessons": [
+                            {
+                                "lesson_id": "7093",
+                                "group_id": "621",
+                                "day_number": "5",
+                                "day_name": "П’ятниця",
+                                "lesson_name": "ІМПС - 1. Ін. мова п",
+                                "lesson_full_name": "Іноземна мова професійного спрямування - 1. Іноземна мова професійного спрямування",
+                                "lesson_number": "1",
+                                "lesson_room": "411-18",
+                                "lesson_type": "Прак",
+                                "teacher_name": "вик. Чіжова Н. В.",
+                                "lesson_week": "1",
+                                "time_start": "08:30:00",
+                                "time_end": "10:05:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "3495",
+                                        "teacher_name": "Чіжова Наталія Володимирівна",
+                                        "teacher_full_name": "викладач Чіжова Наталія Володимирівна",
+                                        "teacher_short_name": "вик. Чіжова Н. В.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=f063b749-7304-4744-ad7f-2ffa27c20489",
+                                        "teacher_rating": "3.045"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "368",
+                                        "room_name": "411-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7097",
+                                "group_id": "621",
+                                "day_number": "5",
+                                "day_name": "П’ятниця",
+                                "lesson_name": "ТРПЗ - 3 Візуальне програмування",
+                                "lesson_full_name": "Технології розробки програмного забезпечення - 3. Візуальне програмування",
+                                "lesson_number": "2",
+                                "lesson_room": "418-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Мелкумян К. Ю.",
+                                "lesson_week": "1",
+                                "time_start": "10:25:00",
+                                "time_end": "12:00:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "2075",
+                                        "teacher_name": "Мелкумян Катерина Юріївна",
+                                        "teacher_full_name": "доцент Мелкумян Катерина Юріївна",
+                                        "teacher_short_name": "доц. Мелкумян К. Ю.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=2b1ae8a3-350e-4bd9-a0a1-9c609437553a",
+                                        "teacher_rating": "3.727"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "366",
+                                        "room_name": "418-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7101",
+                                "group_id": "621",
+                                "day_number": "5",
+                                "day_name": "П’ятниця",
+                                "lesson_name": "ГКС 4 АВУ в ГКС",
+                                "lesson_full_name": "Гнучкі комп'ютеризовані системи  - 4. Алгоритмізація та верифікація управління в ГКС",
+                                "lesson_number": "3",
+                                "lesson_room": "438-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Остапченко К. Б.",
+                                "lesson_week": "1",
+                                "time_start": "12:20:00",
+                                "time_end": "13:55:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "2396",
+                                        "teacher_name": "Остапченко Костянтин Борисович",
+                                        "teacher_full_name": "доцент Остапченко Костянтин Борисович",
+                                        "teacher_short_name": "доц. Остапченко К. Б.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=82ba30ac-1d23-4a68-9d10-448e1375d1c3",
+                                        "teacher_rating": "2.666"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "364",
+                                        "room_name": "438-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "6": {
+                        "day_name": "Субота",
+                        "day_number": 6,
+                        "lessons": []
+                    }
+                }
+            },
+            "2": {
+                "week_number": 2,
+                "days": {
+                    "1": {
+                        "day_name": "Понеділок",
+                        "day_number": 1,
+                        "lessons": [
+                            {
+                                "lesson_id": "7103",
+                                "group_id": "621",
+                                "day_number": "1",
+                                "day_name": "Понеділок",
+                                "lesson_name": "ЕОПВ - 2.Екон. і орг",
+                                "lesson_full_name": "Економіка організації і планування виробництва - 2. Економіка та організація виробництва",
+                                "lesson_number": "1",
+                                "lesson_room": "411-18",
+                                "lesson_type": "Прак",
+                                "teacher_name": "ст.вик. Удовицька Є. А.",
+                                "lesson_week": "2",
+                                "time_start": "08:30:00",
+                                "time_end": "10:05:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "3357",
+                                        "teacher_name": "Удовицька Є А",
+                                        "teacher_full_name": "старший викладач Удовицька Є А",
+                                        "teacher_short_name": "ст.вик. Удовицька Є. А.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=54c1c8e3-4185-4339-aac1-faba8605ffe5",
+                                        "teacher_rating": "2.705"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "368",
+                                        "room_name": "411-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7106",
+                                "group_id": "621",
+                                "day_number": "1",
+                                "day_name": "Понеділок",
+                                "lesson_name": "Право",
+                                "lesson_full_name": "Правове забезпечення професійної діяльності",
+                                "lesson_number": "2",
+                                "lesson_room": "304-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "ст.вик. Звягіна І. Н.",
+                                "lesson_week": "2",
+                                "time_start": "10:25:00",
+                                "time_end": "12:00:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "1155",
+                                        "teacher_name": "Звягіна Ірина Никифорівна",
+                                        "teacher_full_name": "старший викладач Звягіна Ірина Никифорівна",
+                                        "teacher_short_name": "ст.вик. Звягіна І. Н.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=aea2ef9a-cfea-48d5-87fa-0513d4088ed9",
+                                        "teacher_rating": "2.733"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "338",
+                                        "room_name": "304-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7110",
+                                "group_id": "621",
+                                "day_number": "1",
+                                "day_name": "Понеділок",
+                                "lesson_name": "КЕ 3 Мікропроцес. системи",
+                                "lesson_full_name": "Комп'ютерна електроніка - 3. Мікропроцесорні системи",
+                                "lesson_number": "3",
+                                "lesson_room": "419-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Ігнатенко В. М.",
+                                "lesson_week": "2",
+                                "time_start": "12:20:00",
+                                "time_end": "13:55:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "1232",
+                                        "teacher_name": "Ігнатенко Валерій Миколайович",
+                                        "teacher_full_name": "доцент Ігнатенко Валерій Миколайович",
+                                        "teacher_short_name": "доц. Ігнатенко В. М.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=f6191dd1-2522-486b-b93c-4e2057824622",
+                                        "teacher_rating": "2.877"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "365",
+                                        "room_name": "419-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "2": {
+                        "day_name": "Вівторок",
+                        "day_number": 2,
+                        "lessons": []
+                    },
+                    "3": {
+                        "day_name": "Середа",
+                        "day_number": 3,
+                        "lessons": [
+                            {
+                                "lesson_id": "7104",
+                                "group_id": "621",
+                                "day_number": "3",
+                                "day_name": "Середа",
+                                "lesson_name": "ТАУ 2",
+                                "lesson_full_name": "Теорія автоматичного управління - 2. Теорія цифрових систем управління",
+                                "lesson_number": "1",
+                                "lesson_room": "413-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Пархомей І. Р.",
+                                "lesson_week": "2",
+                                "time_start": "08:30:00",
+                                "time_end": "10:05:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "2461",
+                                        "teacher_name": "Пархомей Ігор Ростиславович",
+                                        "teacher_full_name": "доцент Пархомей Ігор Ростиславович",
+                                        "teacher_short_name": "доц. Пархомей І. Р.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=9c5de088-4987-4110-b85e-6c20c6451c47",
+                                        "teacher_rating": "3.990"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "371",
+                                        "room_name": "413-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7107",
+                                "group_id": "621",
+                                "day_number": "3",
+                                "day_name": "Середа",
+                                "lesson_name": "ТРПЗ - 3 Візуальне програмування",
+                                "lesson_full_name": "Технології розробки програмного забезпечення - 3. Візуальне програмування",
+                                "lesson_number": "2",
+                                "lesson_room": "415-18",
+                                "lesson_type": "Лаб",
+                                "teacher_name": "ас. Сергеєв Д. С.",
+                                "lesson_week": "2",
+                                "time_start": "10:25:00",
+                                "time_end": "12:00:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "4486",
+                                        "teacher_name": "асистент Сергеєв Д. С.",
+                                        "teacher_full_name": "асистент Сергеєв Д. С.",
+                                        "teacher_short_name": "ас. Сергеєв Д. С.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=deb820ac-9071-413d-8abc-cd4588662b4f",
+                                        "teacher_rating": "0.000"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "322",
+                                        "room_name": "415-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7111",
+                                "group_id": "621",
+                                "day_number": "3",
+                                "day_name": "Середа",
+                                "lesson_name": "Історія укр. культури",
+                                "lesson_full_name": "Історія української культури в контексті світової (мультимедійне забезпечення)",
+                                "lesson_number": "3",
+                                "lesson_room": "413-18",
+                                "lesson_type": "Прак",
+                                "teacher_name": "вик. Стецюра К. О.",
+                                "lesson_week": "2",
+                                "time_start": "12:20:00",
+                                "time_end": "13:55:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "3142",
+                                        "teacher_name": "Стецюра К О",
+                                        "teacher_full_name": "викладач Стецюра К О",
+                                        "teacher_short_name": "вик. Стецюра К. О.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=9fc7d212-49c9-478c-adf4-7b929c113f2c",
+                                        "teacher_rating": "4.067"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "371",
+                                        "room_name": "413-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "4": {
+                        "day_name": "Четвер",
+                        "day_number": 4,
+                        "lessons": [
+                            {
+                                "lesson_id": "7105",
+                                "group_id": "621",
+                                "day_number": "4",
+                                "day_name": "Четвер",
+                                "lesson_name": "ТАУ 2",
+                                "lesson_full_name": "Теорія автоматичного управління - 2. Теорія цифрових систем управління",
+                                "lesson_number": "1",
+                                "lesson_room": "418а-18",
+                                "lesson_type": "Лаб",
+                                "teacher_name": "доц. Пархомей І. Р.",
+                                "lesson_week": "2",
+                                "time_start": "08:30:00",
+                                "time_end": "10:05:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "2461",
+                                        "teacher_name": "Пархомей Ігор Ростиславович",
+                                        "teacher_full_name": "доцент Пархомей Ігор Ростиславович",
+                                        "teacher_short_name": "доц. Пархомей І. Р.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=9c5de088-4987-4110-b85e-6c20c6451c47",
+                                        "teacher_rating": "3.990"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "369",
+                                        "room_name": "418а-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7108",
+                                "group_id": "621",
+                                "day_number": "4",
+                                "day_name": "Четвер",
+                                "lesson_name": "Комп. мод. систем",
+                                "lesson_full_name": "Комп'ютерне моделювання систем",
+                                "lesson_number": "2",
+                                "lesson_room": "418-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Чумаченко О. І.",
+                                "lesson_week": "2",
+                                "time_start": "10:25:00",
+                                "time_end": "12:00:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "3515",
+                                        "teacher_name": "Чумаченко Олена Іллівна",
+                                        "teacher_full_name": "доцент Чумаченко Олена Іллівна",
+                                        "teacher_short_name": "доц. Чумаченко О. І.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=cc384c10-68dc-427c-a8f5-b2ae1c0e68e1",
+                                        "teacher_rating": "1.764"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "366",
+                                        "room_name": "418-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "5": {
+                        "day_name": "П’ятниця",
+                        "day_number": 5,
+                        "lessons": [
+                            {
+                                "lesson_id": "7109",
+                                "group_id": "621",
+                                "day_number": "5",
+                                "day_name": "П’ятниця",
+                                "lesson_name": "ТРПЗ - 3 Візуальне програмування",
+                                "lesson_full_name": "Технології розробки програмного забезпечення - 3. Візуальне програмування",
+                                "lesson_number": "2",
+                                "lesson_room": "418-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Мелкумян К. Ю.",
+                                "lesson_week": "2",
+                                "time_start": "10:25:00",
+                                "time_end": "12:00:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "2075",
+                                        "teacher_name": "Мелкумян Катерина Юріївна",
+                                        "teacher_full_name": "доцент Мелкумян Катерина Юріївна",
+                                        "teacher_short_name": "доц. Мелкумян К. Ю.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=2b1ae8a3-350e-4bd9-a0a1-9c609437553a",
+                                        "teacher_rating": "3.727"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "366",
+                                        "room_name": "418-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7112",
+                                "group_id": "621",
+                                "day_number": "5",
+                                "day_name": "П’ятниця",
+                                "lesson_name": "ГКС 4 АВУ в ГКС",
+                                "lesson_full_name": "Гнучкі комп'ютеризовані системи  - 4. Алгоритмізація та верифікація управління в ГКС",
+                                "lesson_number": "3",
+                                "lesson_room": "438-18",
+                                "lesson_type": "Лек",
+                                "teacher_name": "доц. Остапченко К. Б.",
+                                "lesson_week": "2",
+                                "time_start": "12:20:00",
+                                "time_end": "13:55:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "2396",
+                                        "teacher_name": "Остапченко Костянтин Борисович",
+                                        "teacher_full_name": "доцент Остапченко Костянтин Борисович",
+                                        "teacher_short_name": "доц. Остапченко К. Б.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=82ba30ac-1d23-4a68-9d10-448e1375d1c3",
+                                        "teacher_rating": "2.666"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "364",
+                                        "room_name": "438-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            },
+                            {
+                                "lesson_id": "7113",
+                                "group_id": "621",
+                                "day_number": "5",
+                                "day_name": "П’ятниця",
+                                "lesson_name": "ГКС 4 АВУ в ГКС",
+                                "lesson_full_name": "Гнучкі комп'ютеризовані системи  - 4. Алгоритмізація та верифікація управління в ГКС",
+                                "lesson_number": "4",
+                                "lesson_room": "407-18",
+                                "lesson_type": "Лаб",
+                                "teacher_name": "доц. Остапченко К. Б.",
+                                "lesson_week": "2",
+                                "time_start": "14:15:00",
+                                "time_end": "15:50:00",
+                                "rate": "1",
+                                "teachers": [
+                                    {
+                                        "teacher_id": "2396",
+                                        "teacher_name": "Остапченко Костянтин Борисович",
+                                        "teacher_full_name": "доцент Остапченко Костянтин Борисович",
+                                        "teacher_short_name": "доц. Остапченко К. Б.",
+                                        "teacher_url": "http://rozklad.kpi.ua/Schedules/ViewSchedule.aspx?v=82ba30ac-1d23-4a68-9d10-448e1375d1c3",
+                                        "teacher_rating": "2.666"
+                                    }
+                                ],
+                                "rooms": [
+                                    {
+                                        "room_id": "372",
+                                        "room_name": "407-18",
+                                        "room_latitude": "50.447021",
+                                        "room_longitude": "30.456021"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    "6": {
+                        "day_name": "Субота",
+                        "day_number": 6,
+                        "lessons": []
+                    }
+                }
+            }
+        }
+    }
+}

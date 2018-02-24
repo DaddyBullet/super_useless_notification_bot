@@ -1,0 +1,22 @@
+02-24 12:37 apscheduler.scheduler INFO     Adding job tentatively -- it will be properly scheduled when the scheduler starts
+02-24 12:37 apscheduler.scheduler INFO     Added job "test_scheduler" to job store "default"
+02-24 12:37 apscheduler.scheduler INFO     Scheduler started
+02-24 12:37 apscheduler.scheduler DEBUG    Looking for jobs to run
+02-24 12:37 apscheduler.scheduler DEBUG    Next wakeup is due at 2018-02-24 12:38:00+02:00 (in 38.937053 seconds)
+02-24 12:37 urllib3.util.retry DEBUG    Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=0, status=None)
+02-24 12:37 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): api.telegram.org
+02-24 12:37 urllib3.connectionpool DEBUG    https://api.telegram.org:443 "POST /bot496319740:AAEfKfU19jMFgPqo4joU5WLm73dHQGqh8MU/getUpdates HTTP/1.1" 200 392
+02-24 12:37 urllib3.util.retry DEBUG    Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=0, status=None)
+02-24 12:37 urllib3.util.retry DEBUG    Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=0, status=None)
+02-24 12:37 urllib3.connectionpool DEBUG    Starting new HTTPS connection (2): api.telegram.org
+02-24 12:37 urllib3.connectionpool DEBUG    https://api.telegram.org:443 "POST /bot496319740:AAEfKfU19jMFgPqo4joU5WLm73dHQGqh8MU/sendMessage HTTP/1.1" 200 304
+02-24 12:37 root         INFO     382108569
+02-24 12:37 urllib3.connectionpool DEBUG    https://api.telegram.org:443 "POST /bot496319740:AAEfKfU19jMFgPqo4joU5WLm73dHQGqh8MU/getUpdates HTTP/1.1" 200 23
+02-24 12:37 urllib3.util.retry DEBUG    Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=0, status=None)
+02-24 12:38 apscheduler.scheduler DEBUG    Looking for jobs to run
+02-24 12:38 apscheduler.executors.default INFO     Running job "test_scheduler (trigger: cron[hour='*', minute='*'], next run at: 2018-02-24 12:38:00 EET)" (scheduled at 2018-02-24 12:38:00+02:00)
+02-24 12:38 apscheduler.scheduler DEBUG    Next wakeup is due at 2018-02-24 12:39:00+02:00 (in 59.999156 seconds)
+02-24 12:38 root         INFO     I'm working
+02-24 12:38 urllib3.util.retry DEBUG    Converted retries value: 3 -> Retry(total=3, connect=None, read=None, redirect=0, status=None)
+02-24 12:38 urllib3.connectionpool DEBUG    https://api.telegram.org:443 "POST /bot496319740:AAEfKfU19jMFgPqo4joU5WLm73dHQGqh8MU/sendMessage HTTP/1.1" 200 291
+02-24 12:38 apscheduler.executors.default INFO     Job "test_scheduler (trigger: cron[hour='*', minute='*'], next run at: 2018-02-24 12:39:00 EET)" executed successfully
